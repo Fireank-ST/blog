@@ -1062,6 +1062,24 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - |
+      <style>
+        /* 底部 Footer 透明 */
+        #footer {
+          background: transparent !important;
+        }
+        /* 主页内容区白色背景 */
+        #content-inner {
+          background: #fff;
+        }
+        .layout {
+          background: #fff;
+        }
+        /* 侧边栏卡片白色背景 */
+        .card-widget {
+          background: #fff !important;
+        }
+      </style>
   bottom:
     # - <script src="xxxx"></script>
 
