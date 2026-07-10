@@ -1082,6 +1082,11 @@ inject:
         .card-widget {
           background: #fff !important;
         }
+        /* 主页背景模糊 */
+        #web_bg {
+          filter: blur(6px);
+          transform: scale(1.05);
+        }
       </style>
   bottom:
     # - <script src="xxxx"></script>
