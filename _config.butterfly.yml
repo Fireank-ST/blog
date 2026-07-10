@@ -1068,11 +1068,14 @@ inject:
         #footer {
           background: transparent !important;
         }
-        /* 主页内容区白色背景 */
-        #content-inner {
-          background: #fff;
+        /* 主页内容区透明(不遮背景图) */
+        .home #content-inner,
+        .home .layout {
+          background: transparent;
         }
-        .layout {
+        /* 文章详情页白色背景 */
+        .post #content-inner,
+        .post .layout {
           background: #fff;
         }
         /* 侧边栏卡片白色背景 */
