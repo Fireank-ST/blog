@@ -56,7 +56,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: https://pub-8bb2214c35534c09b719a1f2290cedee.r2.dev/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2026-05-01_112739_222.jpg
   effect: false
 
 # Disable all banner images
@@ -292,7 +292,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/Fireank-ST/
   card_announcement:
     enable: true
     content: This is my Blog
