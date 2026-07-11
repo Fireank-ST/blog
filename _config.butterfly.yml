@@ -63,7 +63,7 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: https://pub-8bb2214c35534c09b719a1f2290cedee.r2.dev/wallhaven-0qgxeq.jpg
 
 # The banner image of index page
 index_img: https://pub-8bb2214c35534c09b719a1f2290cedee.r2.dev/wallhaven-0qgxeq.jpg
